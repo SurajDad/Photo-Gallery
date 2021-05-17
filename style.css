@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: aqua;
+        
+}
+
+.images{
+    height: 150px;
+    width: 150px;
+    
+}
+
+.div1, .div2, .div3, .div4{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.div3, .div4{
+    display: flex;
+    justify-content: center;
+    
+}
